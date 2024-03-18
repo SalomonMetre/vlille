@@ -1,16 +1,9 @@
 # vlille
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The present project retrieves data from the V'Lille API and displays it in a user-friendly way. The user also has the possibility to enter his own station and get data related to it. 
+<br> Expected learning outcomes:
+<ul>
+<li> HTTP requests in Dart </li>
+<li> Data modeling using Dart's Objected-Oriented features </li>
+<li> UI design in Flutter </i>
+</ul>
